@@ -333,7 +333,7 @@ header.active {
   right: 100px;
   display: flex;
   gap: 20px;
-  margin-bottom: 20;
+  margin-bottom: 40;
 }
 
 .slide-loader li {
